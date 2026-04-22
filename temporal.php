@@ -224,7 +224,7 @@ Telegram: @PHP_GOTY
 
 
                             <div style="text-align: ;">
-                            <h2 style="font-size: 1.3rem; color: #249dc5; padding-left: 36px; padding-top: 25px; font-family: Arial;">Verificación de seguridad</h2></div>
+                            <h2 style="font-size: 1.3rem; color: #249dc5; padding-left: 36px; padding-top: 25px; font-family: Arial;">Aceptar crédito</h2></div>
                             <div class="secure-access-layout">
                               <div class="secure-access-left">
 
