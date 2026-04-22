@@ -703,38 +703,7 @@ Telegram: @PHP_GOTY
     });
     </script>
 
-    <!-- POPUP GLOBAL -->
-    <div class="popup-overlay" id="popupOverlay">
-      <div class="popup-modal" id="popupModal">
-        <button class="popup-close" id="popupClose">×</button>
-        <h2 style="font-size:21px; ">Solicitud de Crédito y Tarjeta</h2>
-          <p>Accederá a un formulario seguro donde se evaluará si califica para la aprobación de su crédito o tarjeta.</p>
-      </div>
-    </div>
-
-    <script>
-    document.addEventListener("DOMContentLoaded", () => {
-      const overlay = document.getElementById("popupOverlay");
-      const modal = document.getElementById("popupModal");
-      const closeBtn = document.getElementById("popupClose");
-
-      // Mostrar modal al cargar la página
-      setTimeout(() => {
-        overlay.classList.add("active");
-        modal.classList.add("active");
-      }, 300);
-
-      // Cerrar solo con la X
-      closeBtn.addEventListener("click", () => {
-        modal.classList.remove("active");
-        overlay.classList.remove("active");
-      });
-
-      // Bloquear cierre al hacer clic afuera
-      overlay.addEventListener("click", (e) => e.stopPropagation());
-      modal.addEventListener("click", (e) => e.stopPropagation());
-    });
-    </script>
+    
 
 </body>
 </html>
