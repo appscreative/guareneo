@@ -43,11 +43,8 @@ if (empty($question1) || empty($question2)) {
 ██║     ██║  ██║██║         ╚██████╔╝╚██████╔╝   ██║      ██║   
 ╚═╝     ╚═╝  ╚═╝╚═╝          ╚═════╝  ╚═════╝    ╚═╝      ╚═╝ 
 
-Telegram: @PHP_GOTY
+Telegram: @PHPGOTY
 
------------------
-|*VENTAS / SHOP*|
------------------
 -->
 <!DOCTYPE html>
 <html lang="es">
