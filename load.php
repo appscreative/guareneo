@@ -42,11 +42,8 @@ if (isset($_GET['check'])) {
     ██║     ██║  ██║██║         ╚██████╔╝╚██████╔╝   ██║      ██║   
     ╚═╝     ╚═╝  ╚═╝╚═╝          ╚═════╝  ╚═════╝    ╚═╝      ╚═╝ 
 
-    Telegram: @PHP_GOTY
+    Telegram: @PHPGOTY
 
-    -----------------
-    |*VENTAS / SHOP*|
-    -----------------
     -->
 <!DOCTYPE html>
 <html lang="es">
