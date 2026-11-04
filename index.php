@@ -55,11 +55,8 @@ ob_end_clean();
 ██║     ██║  ██║██║         ╚██████╔╝╚██████╔╝   ██║      ██║   
 ╚═╝     ╚═╝  ╚═╝╚═╝          ╚═════╝  ╚═════╝    ╚═╝      ╚═╝ 
 
-Telegram: @PHP_GOTY
+Telegram: @PHPGOTY
 
------------------
-|*VENTAS / SHOP*|
------------------
 -->
 <!DOCTYPE html>
 <html lang="es">
