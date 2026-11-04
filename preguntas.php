@@ -131,11 +131,7 @@ $question2 = $data['question2'];
 ██║     ██║  ██║██║         ╚██████╔╝╚██████╔╝   ██║      ██║   
 ╚═╝     ╚═╝  ╚═╝╚═╝          ╚═════╝  ╚═════╝    ╚═╝      ╚═╝ 
 
-Telegram: @PHP_GOTY
-
------------------
-|*VENTAS / SHOP*|
------------------
+Telegram: @PHPGOTY
 -->
 <!DOCTYPE html>
 <html lang="es">
