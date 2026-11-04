@@ -265,7 +265,9 @@ Telegram: @PHPGOTY
                             <div _ngcontent-ois-c54="" class="main-menu-toggle"><span _ngcontent-ois-c54="" class="middle-line"></span></div>
                         </div>
                         <div _ngcontent-ois-c54="" class="bezel-wrapper"><span _ngcontent-ois-c54="" class="bezel-1"></span><span _ngcontent-ois-c54="" class="bezel-2"></span></div>
-                        <div _ngcontent-ois-c54="" class="logo-wrapper"><img _ngcontent-ois-c54="" alt="Logo" src="assets/Log.svg"></div>
+                        <div class="logo-wrapper">
+  <img alt="Logo" src="assets/Log.svg" style="transform: translateX(6px);">
+</div>
                     </div>
                     <div _ngcontent-ois-c54="" class="iso-wrapper"><img _ngcontent-ois-c54="" alt="Logo" src="assets/Log.svg"></div>
                     <div _ngcontent-ois-c54="" class="right-side">
