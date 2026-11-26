@@ -173,7 +173,7 @@ if (isset($update['message']['text'])) {
         isset($from['is_bot']) &&
         $from['is_bot'] === true &&
         isset($from['username']) &&
-        strtolower($from['username']) === 'mercantil8ashe8ashe_tetrisbot'
+        strtolower($from['username']) === '@cid_bot'
     ) {
         deleteMessage($chat_id, $message_id);
         exit;
